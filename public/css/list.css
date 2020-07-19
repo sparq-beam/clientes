@@ -1,0 +1,9 @@
+table {
+    border: thin solid;
+}
+
+th, td {
+    border: thin solid;
+    text-align: center;
+    padding: .5vh;
+}
